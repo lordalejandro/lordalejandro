@@ -10,8 +10,8 @@ I Consider myself a person of great aptitude for autonomous learning. I'm an ope
 
 My 3 Passions: Tech, Fashion and Lifestyle. 👾
 
-My website: https://avilaca.com
-Or if you would like to connect: https://www.linkedin.com/in/a-vilaca-26634a229/
+- My website: https://avilaca.com
+- Or if you would like to connect: https://www.linkedin.com/in/a-vilaca-26634a229/
 
 <!---
 lordalejandro/lordalejandro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
