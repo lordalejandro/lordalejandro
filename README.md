@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lordalejandro
 
-I am a 21 Years Old Blockchain/Full-Stack Engineer and Entrepreneur based in Paraguay 🇵🇾 
+Blockchain/Full-Stack Engineer and Entrepreneur based in Paraguay 🇵🇾 
 
 Fully fluent in English, Portuguese and Spanish.
 
