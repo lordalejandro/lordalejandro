@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lordalejandro
 
-Blockchain/Full-Stack Engineer and Entrepreneur based in Paraguay 🇵🇾 
+Full-Stack Engineer based in Paraguay 🇵🇾 
 
 Fully fluent in English, Portuguese and Spanish.
 
